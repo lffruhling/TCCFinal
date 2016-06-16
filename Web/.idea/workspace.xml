@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd2845d1-7da2-476e-8a41-99169d20ff46" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Sistema Meu gerente.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\OLD_\os_new.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\OLD_\wizard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\OLD_\wizard.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\api\servico.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\api\teste.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\api\teste2.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Animation.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Charts.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\DataGrid.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Dropdown.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Email.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Extras.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Forms.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Layout.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Pages.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\Tables.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\UIElements.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\classes\teste_.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\clientes.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\clientes2.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\clientes_edit.php.bak" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\teste_wizard.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\utils\logout.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\utils\menu.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Leonardo\Documents\Desenvolvimento\WEB\TCC\Sistema Meu gerente\pages\v_visualiza_teste.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/utils/GCMPushMessage.php" afterPath="$PROJECT_DIR$/pages/utils/GCMPushMessage.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/api.php" afterPath="$PROJECT_DIR$/api/api.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api/apicp.php" afterPath="$PROJECT_DIR$/api/apicp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/clientes_edit.php" afterPath="$PROJECT_DIR$/pages/clientes_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/clientes_list.php" afterPath="$PROJECT_DIR$/pages/clientes_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/clientes_new.php" afterPath="$PROJECT_DIR$/pages/clientes_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/clientes_table.php" afterPath="$PROJECT_DIR$/pages/table/clientes_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/colaboradores_edit.php" afterPath="$PROJECT_DIR$/pages/colaboradores_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/colaboradores_list.php" afterPath="$PROJECT_DIR$/pages/colaboradores_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/colaboradores_new.php" afterPath="$PROJECT_DIR$/pages/colaboradores_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/colaboradores_table.php" afterPath="$PROJECT_DIR$/pages/table/colaboradores_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/grupo_prod_edit.php" afterPath="$PROJECT_DIR$/pages/grupo_prod_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/grupo_prod_list.php" afterPath="$PROJECT_DIR$/pages/grupo_prod_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/grupo_prod_new.php" afterPath="$PROJECT_DIR$/pages/grupo_prod_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/grupo_prod_table.php" afterPath="$PROJECT_DIR$/pages/table/grupo_prod_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/index.php" afterPath="$PROJECT_DIR$/pages/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/classes/mysql.php.bak" afterPath="$PROJECT_DIR$/pages/classes/mysql.php.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/classes/mysql.php" afterPath="$PROJECT_DIR$/pages/classes/mysql.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/os_edit.php" afterPath="$PROJECT_DIR$/pages/os_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/os_list.php" afterPath="$PROJECT_DIR$/pages/os_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/os_new.php" afterPath="$PROJECT_DIR$/pages/os_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/os_produto_table.php" afterPath="$PROJECT_DIR$/pages/table/os_produto_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/os_table.php" afterPath="$PROJECT_DIR$/pages/table/os_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/perfil_edit.php" afterPath="$PROJECT_DIR$/pages/perfil_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/perfil_list.php" afterPath="$PROJECT_DIR$/pages/perfil_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/perfil_new.php" afterPath="$PROJECT_DIR$/pages/perfil_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/perfil_table.php" afterPath="$PROJECT_DIR$/pages/table/perfil_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/produtos_edit.php" afterPath="$PROJECT_DIR$/pages/produtos_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/produtos_list.php" afterPath="$PROJECT_DIR$/pages/produtos_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/produtos_new.php" afterPath="$PROJECT_DIR$/pages/produtos_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/produtos_table.php" afterPath="$PROJECT_DIR$/pages/table/produtos_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/teste.php" afterPath="$PROJECT_DIR$/pages/teste.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tipo_serv_edit.php" afterPath="$PROJECT_DIR$/pages/tipo_serv_edit.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tipo_serv_list.php" afterPath="$PROJECT_DIR$/pages/tipo_serv_list.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/tipo_serv_new.php" afterPath="$PROJECT_DIR$/pages/tipo_serv_new.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pages/table/tipo_serv_table.php" afterPath="$PROJECT_DIR$/pages/table/tipo_serv_table.php" />
+    </list>
+    <ignored path="Sistema Meu gerente.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Sistema Meu gerente" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="api.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/api.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.960373" vertical-offset="7761" max-vertical-offset="8925">
+              <caret line="505" column="11" selection-start-line="505" selection-start-column="11" selection-end-line="505" selection-end-column="11" />
+              <folding>
+                <marker date="1465007085480" expanded="true" signature="1605:1629" placeholder="SELECT * FRO..tb_cliente..." />
+                <marker date="1465007085480" expanded="true" signature="2881:3037" placeholder="SELECT ID_CO..tb_colaboradores..." />
+                <marker date="1465007085480" expanded="true" signature="15547:15628" placeholder="UPDATE tb_co..." />
+                <marker date="1465007085480" expanded="true" signature="16727:16997" placeholder="UPDATE tb_os..." />
+                <marker date="1465007085480" expanded="true" signature="18176:18247" placeholder="UPDATE tb_os..." />
+                <marker date="1465007085480" expanded="true" signature="18673:18769" placeholder="insert into ..." />
+                <marker date="1465007085480" expanded="true" signature="19709:19760" placeholder="UPDATE tb_os..." />
+                <marker date="1465007085480" expanded="true" signature="20426:20477" placeholder="UPDATE tb_os..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/api/api.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema Meu gerente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema Meu gerente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema Meu gerente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema Meu gerente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistema Meu gerente" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="api" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd2845d1-7da2-476e-8a41-99169d20ff46" name="Default" comment="" />
+      <created>1464242943288</created>
+      <option name="number" value="Default" />
+      <updated>1464242943288</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="8109">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465007085480" expanded="true" signature="1605:1629" placeholder="SELECT * FRO..tb_cliente..." />
+            <marker date="1465007085480" expanded="true" signature="2881:3037" placeholder="SELECT ID_CO..tb_colaboradores..." />
+            <marker date="1465007085480" expanded="true" signature="15547:15628" placeholder="UPDATE tb_co..." />
+            <marker date="1465007085480" expanded="true" signature="16727:16997" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18176:18247" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18673:18769" placeholder="insert into ..." />
+            <marker date="1465007085480" expanded="true" signature="19709:19760" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="20426:20477" placeholder="UPDATE tb_os..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7242">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465007085480" expanded="true" signature="1605:1629" placeholder="SELECT * FRO..tb_cliente..." />
+            <marker date="1465007085480" expanded="true" signature="2881:3037" placeholder="SELECT ID_CO..tb_colaboradores..." />
+            <marker date="1465007085480" expanded="true" signature="15547:15628" placeholder="UPDATE tb_co..." />
+            <marker date="1465007085480" expanded="true" signature="16727:16997" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18176:18247" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18673:18769" placeholder="insert into ..." />
+            <marker date="1465007085480" expanded="true" signature="19709:19760" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="20426:20477" placeholder="UPDATE tb_os..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6545">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465007085480" expanded="true" signature="1605:1629" placeholder="SELECT * FRO..tb_cliente..." />
+            <marker date="1465007085480" expanded="true" signature="2881:3037" placeholder="SELECT ID_CO..tb_colaboradores..." />
+            <marker date="1465007085480" expanded="true" signature="15547:15628" placeholder="UPDATE tb_co..." />
+            <marker date="1465007085480" expanded="true" signature="16727:16997" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18176:18247" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18673:18769" placeholder="insert into ..." />
+            <marker date="1465007085480" expanded="true" signature="19709:19760" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="20426:20477" placeholder="UPDATE tb_os..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.960373" vertical-offset="7761" max-vertical-offset="8925">
+          <caret line="505" column="11" selection-start-line="505" selection-start-column="11" selection-end-line="505" selection-end-column="11" />
+          <folding>
+            <marker date="1465007085480" expanded="true" signature="1605:1629" placeholder="SELECT * FRO..tb_cliente..." />
+            <marker date="1465007085480" expanded="true" signature="2881:3037" placeholder="SELECT ID_CO..tb_colaboradores..." />
+            <marker date="1465007085480" expanded="true" signature="15547:15628" placeholder="UPDATE tb_co..." />
+            <marker date="1465007085480" expanded="true" signature="16727:16997" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18176:18247" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="18673:18769" placeholder="insert into ..." />
+            <marker date="1465007085480" expanded="true" signature="19709:19760" placeholder="UPDATE tb_os..." />
+            <marker date="1465007085480" expanded="true" signature="20426:20477" placeholder="UPDATE tb_os..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
